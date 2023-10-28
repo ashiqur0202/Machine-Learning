@@ -30,7 +30,7 @@ If you're new to the world of machine learning, here's a roadmap to guide your l
 ### Step 3: Machine Learning Basics
 - [ ] **Supervised Learning**: Understand the principles of supervised learning, including regression and classification.
 - [ ] **Unsupervised Learning**: Explore unsupervised learning techniques like clustering and dimensionality reduction.
-- [ ] **Python Libraries**: Get familiar with popular ML libraries like Scikit-Learn, TensorFlow, and Keras.
+- [ ] **Python Libraries**: Get familiar with popular ML libraries like Scikit-Learn, TensorFlow, Keras, and PyTorch.
 - [ ] **Projects**: Start with simple ML projects to apply your knowledge.
 
 ### Step 4: Advanced Machine Learning
@@ -48,14 +48,5 @@ If you're new to the world of machine learning, here's a roadmap to guide your l
 - [ ] **Kaggle Competitions**: Participate in Kaggle competitions to apply your skills.
 - [ ] **Research and Publications**: Contribute to ML research or publish your projects.
 
-## Repository Structure
-
-- **/Projects**: Contains practical machine learning projects.
-- **/Tutorials**: Offers tutorials and guides for various ML topics.
-- **/Resources**: Provides useful books, papers, and courses.
-- **/Challenges**: Includes code challenges and problem-solving exercises.
-- **/Contributing**: Learn how to contribute to this repository.
-
 ## Contribution
-
-We encourage contributions from the machine learning community. If you have tutorials, projects, or resources to share, please read our [contribution guidelines](/Contributing.md).
+We encourage contributions from the machine learning community.
